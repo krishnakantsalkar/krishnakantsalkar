@@ -24,7 +24,11 @@
 #### 🌱 I’m currently learning advance `Python`!
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![Krish's github stats](https://github-readme-stats.vercel.app/api?username=krishnakantsalkar&show_icons=true&theme=ayu-mirage&hide=stars&count_private=true) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnakantsalkar&langs_count=10&layout=compact) ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishnakantsalkar&repo=My-App&show_owner=true)
+![Krish's github stats](https://github-readme-stats.vercel.app/api?username=krishnakantsalkar&show_icons=true&theme=ayu-mirage&hide=stars&count_private=true) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnakantsalkar&langs_count=10&layout=compact) 
+
+![Krishnakant's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@krishnakantsalkar&layout=compact)
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishnakantsalkar&repo=My-App&show_owner=true)
 
 
 <!--
