@@ -19,7 +19,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #### Checkout my Website: 
-[![My Website](https://img.shields.io/badge/-krishnakantsalkar.gq-gray?style=for-the-badge)](https://www.krishnakantsalkar.gq)
+[![My Website](https://img.shields.io/badge/-krishnakantsalkar.me-gray?style=for-the-badge)](https://www.krishnakantsalkar.me)
 
 #### 🌱 I’m currently learning advance `Python`!
 
@@ -28,7 +28,7 @@
 
 ![Krishnakant's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@krishnakantsalkar&layout=compact)
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishnakantsalkar&repo=My-App&show_owner=true)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishnakantsalkar&repo=My-App&show_owner=true)](https://github.com/krishnakantsalkar/My-App)
 
 
 <!--
