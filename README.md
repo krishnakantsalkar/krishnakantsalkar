@@ -24,11 +24,12 @@
 #### 🌱 I’m currently learning advance `Python`!
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![Krish's github stats](https://github-readme-stats.vercel.app/api?username=krishnakantsalkar&show_icons=true&theme=ayu-mirage&hide=stars&count_private=true) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnakantsalkar&langs_count=10&layout=compact) 
+![Krish's github stats](https://github-readme-stats.vercel.app/api?username=krishnakantsalkar&show_icons=true&theme=ayu-mirage&hide=stars&count_private=true)  
 
-![Krishnakant's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@krishnakantsalkar&layout=compact)
-
+![Krishnakant's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@krishnakantsalkar&layout=compact)  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnakantsalkar&langs_count=10&layout=compact) 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishnakantsalkar&repo=My-App&show_owner=true)](https://github.com/krishnakantsalkar/My-App)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=krishnakantsalkar&currStreakNum=2FD3EB&fire=violet&ring=violet&theme=dark)](https://git.io/streak-stats)
 
 
 <!--
