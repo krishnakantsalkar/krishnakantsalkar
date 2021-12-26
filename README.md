@@ -26,7 +26,7 @@
   
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #### Checkout my Website: 
-[![My Website](https://img.shields.io/badge/-krishnakantsalkar.me-gray?style=for-the-badge)](https://www.krishnakantsalkar.in)
+[![My Website](https://img.shields.io/badge/-krishnakantsalkar.in-gray?style=for-the-badge)](https://www.krishnakantsalkar.in)
 
 #### 🌱 I’m currently learning advance `Python`!
 
